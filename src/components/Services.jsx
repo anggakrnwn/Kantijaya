@@ -2,9 +2,9 @@ import React from 'react'
 
 const Services = () => {
     const services = [
-        { id: 1, title: "Membership Organization", desc: "Streamline member management and foster engagement with powerful, intuitive tools.", image: "/assets/icons/card1.png" },
-        { id: 2, title: "National Associations", desc: "Empowering national associations to connect, collaborate, and drive impactful initiatives.", image: "/assets/icons/card2.png" },
-        { id: 3, title: "Groups", desc: "Facilitate group collaboration and achieve goals effectively with our seamless solutions.", image: "/assets/icons/card3.png" },
+        { id: 1, title: "Membership Organization", desc: "Streamline member management and foster engagement with powerful, intuitive tools.", image: "/icons/card1.png" },
+        { id: 2, title: "National Associations", desc: "Empowering national associations to connect, collaborate, and drive impactful initiatives.", image: "/icons/card2.png" },
+        { id: 3, title: "Groups", desc: "Facilitate group collaboration and achieve goals effectively with our seamless solutions.", image: "/icons/card3.png" },
     ];
 
     return (
@@ -19,13 +19,13 @@ const Services = () => {
 
                 {/* Company logo */}
                 <div className='my-12 flex flex-wrap justify-between items-center gap-8'>
-                    <img className='w-14 h-auto' src="/assets/logo1.png" alt="Logo 1" />
-                    <img className='w-14 h-auto' src="/assets/logo2.png" alt="Logo 2" />
-                    <img className='w-14 h-auto' src="/assets/logo3.png" alt="Logo 3" />
-                    <img className='w-14 h-auto' src="/assets/logo4.png" alt="Logo 4" />
-                    <img className='w-14 h-auto' src="/assets/logo5.png" alt="Logo 5" />
-                    <img className='w-14 h-auto' src="/assets/logo6.png" alt="Logo 6" />
-                    <img className='w-14 h-auto' src="/assets/logo7.png" alt="Logo 7" />
+                    <img className='w-14 h-auto' src="/logo1.png" alt="Logo 1" />
+                    <img className='w-14 h-auto' src="/logo2.png" alt="Logo 2" />
+                    <img className='w-14 h-auto' src="/logo3.png" alt="Logo 3" />
+                    <img className='w-14 h-auto' src="/logo4.png" alt="Logo 4" />
+                    <img className='w-14 h-auto' src="/logo5.png" alt="Logo 5" />
+                    <img className='w-14 h-auto' src="/logo6.png" alt="Logo 6" />
+                    <img className='w-14 h-auto' src="/logo7.png" alt="Logo 7" />
                 </div>
 
                 {/* Service card */}

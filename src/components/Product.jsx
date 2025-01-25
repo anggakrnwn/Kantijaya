@@ -7,7 +7,7 @@ const Product = () => {
       <div className="px-4 lg:px-14 max-w-screen-2x1 mx-auto my-8" id="product">
         <div className="md:w-11/12 mx-auto flex flex-col md:flex-row items-center justify-between gap-12">
           <div>
-            <img src="/assets/banner3.png" alt="" className="w-full max-w-md h-auto" />
+            <img src="/banner3.png" alt="" className="w-full max-w-md h-auto" />
           </div>
           <div className="md:w-3/5 mx-auto">
             <h2 className="text-4xl text-neutralGrey font-semibold mb-4 md:w-4/5">
@@ -25,7 +25,7 @@ const Product = () => {
       <div className="px-4 lg:px-14 max-w-screen-2x1 mx-auto bg-neutralSilver py-16" id="testimonial">
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="md:w-1/3"></div>
-          <img src="/assets/human1.png" alt="" className="w-full max-w-md h-auto" />
+          <img src="/human1.png" alt="" className="w-full max-w-md h-auto" />
           <div className="md:w-2/3 mx-auto">
             <div>
               <p className="md:w-4/5 text-sm text-neutralGrey mb-8 leading-7">
@@ -38,37 +38,37 @@ const Product = () => {
               <div>
                 <div className="flex items-center gap-8 flex-wrap">
                   <img
-                    src="/assets/logo1.png"
+                    src="/logo1.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/assets/logo2.png"
+                    src="/logo2.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/assets/logo3.png"
+                    src="/logo3.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/assets/logo4.png"
+                    src="/logo4.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/assets/logo5.png"
+                    src="/logo5.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/assets/logo6.png"
+                    src="/logo6.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/assets/logo7.png"
+                    src="/logo7.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />

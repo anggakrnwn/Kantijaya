@@ -12,7 +12,7 @@ const Myfooter = () => {
               href="#"
               className="text-2xl font-semibold flex items-center space-x-3"
             >
-              <img src="/assets/kantijayalogo2.png" alt="logo" className="w-10 inline-block" />
+              <img src="/kantijayalogo2.png" alt="logo" className="w-10 inline-block" />
               <span className="text-[#383826]">Kantijaya</span>
             </a>
             <div>

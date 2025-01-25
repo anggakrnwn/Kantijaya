@@ -7,7 +7,7 @@ const About = () => {
       <div className="px-4 lg:px-14 max-w-screen-2x1 mx-auto my-8" id="about">
         <div className="md:w-11/12 mx-auto flex flex-col md:flex-row items-center justify-between gap-12">
           <div>
-            <img src="/assets/banner2.png" alt="" className="w-full max-w-md h-auto" />
+            <img src="/banner2.png" alt="" className="w-full max-w-md h-auto" />
           </div>
           <div className="md:w-3/5 mx-auto">
             <h2 className="text-4xl text-neutralGrey font-semibold mb-4 md:w-4/5">
@@ -36,7 +36,7 @@ const About = () => {
           <div className="md:w-1/2 mx-auto flex sm:flex-row flex-col sm:items-center justify-around gap-30">
             <div className="space-y-8">
               <div className="flex items-center gap-4">
-                <img src="/assets/icons/member.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/member.png" alt="" className="w-14 h-auto" />
                 <div>
                   <h4 className="text-2xl text-neutralGrey font-semibold">50++</h4>
                   <p>Members</p>
@@ -44,7 +44,7 @@ const About = () => {
               </div>
 
               <div className="flex items-center gap-4">
-                <img src="/assets/icons/groups.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/groups.png" alt="" className="w-14 h-auto" />
                 <div>
                   <h4 className="text-2xl text-neutralGrey font-semibold">20++</h4>
                   <p>Groups</p>
@@ -53,7 +53,7 @@ const About = () => {
             </div>
             <div className="space-y-8">
               <div className="flex items-center gap-4">
-                <img src="/assets/icons/eventbooking.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/eventbooking.png" alt="" className="w-14 h-auto" />
                 <div>
                   <h4 className="text-2xl text-neutralGrey font-semibold">10++</h4>
                   <p>Event Booking</p>
@@ -61,7 +61,7 @@ const About = () => {
               </div>
 
               <div className="flex items-center gap-4">
-                <img src="/assets/icons/payment.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/payment.png" alt="" className="w-14 h-auto" />
                 <div>
                   <h4 className="text-2xl text-neutralGrey font-semibold">40++</h4>
                   <p>Payment</p>
