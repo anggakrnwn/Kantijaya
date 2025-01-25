@@ -8,13 +8,6 @@ const Myfooter = () => {
       <div className="w-full">
         <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1">
           <div className="space-y-4 mb-8">
-            <a
-              href="#"
-              className="text-2xl font-semibold flex items-center space-x-3"
-            >
-              <img src="/kantijayalogo2.png" alt="logo" className="w-10 inline-block" />
-              <span>Kantijaya</span>
-            </a>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:mt-4 sm:grid-cols-3 sm:gap-6">
             <div>
