@@ -13,7 +13,7 @@ const Myfooter = () => {
               className="text-2xl font-semibold flex items-center space-x-3"
             >
               <img src="/kantijayalogo2.png" alt="logo" className="w-10 inline-block" />
-              <span className="text-[#383826]">Kantijaya</span>
+              <span>Kantijaya</span>
             </a>
             <div>
               <p className="mb-1">Copyright © 2025 Kantijaya</p>
@@ -25,7 +25,7 @@ const Myfooter = () => {
               <Footer.Title title="About" />
               <Footer.LinkGroup col>
                 <Footer.Link href="#">Kantijaya</Footer.Link>
-                <Footer.Link href="#">Team</Footer.Link>
+                <Footer.Link href="#">Discord</Footer.Link>
               </Footer.LinkGroup>
             </div>
             <div>

@@ -5,10 +5,10 @@ const Blog = () => {
     {
       id: 1,
       title: "Fostering Growth Through Meaningful Discussions",
-      image: "/assets/blog1.jpg", 
+      image: "/blog1.jpg", 
     },
-    { id: 2, title: "The Evolution of Modern Computers", image: "/assets/blog2.jpg" },
-    { id: 3, title: "Emerging Trends in Technology Innovation", image: "/assets/blog3.jpg" },
+    { id: 2, title: "The Evolution of Modern Computers", image: "/blog2.jpg" },
+    { id: 3, title: "Emerging Trends in Technology Innovation", image: "/blog3.jpg" },
   ];
 
   return (

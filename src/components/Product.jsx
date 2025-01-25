@@ -38,37 +38,37 @@ const Product = () => {
               <div>
                 <div className="flex items-center gap-8 flex-wrap">
                   <img
-                    src="/logo1.png"
+                    src="/Logo1.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/logo2.png"
+                    src="/Logo2.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/logo3.png"
+                    src="/Logo3.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/logo4.png"
+                    src="/Logo4.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/logo5.png"
+                    src="/Logo5.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/logo6.png"
+                    src="/Logo6.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
                   <img
-                    src="/logo7.png"
+                    src="/Logo7.png"
                     alt=""
                     className="cursor-pointer w-8 h-auto"
                   />
