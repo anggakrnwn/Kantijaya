@@ -20,7 +20,7 @@ const Services = () => {
                 {/* Company logo */}
                 <div className='my-12 flex flex-wrap justify-between items-center gap-8'>
                     <img className='w-14 h-auto' src="/Logo1.png" alt="Logo 1" />
-                    <img className='w-14 h-auto' src="/Logo2.png" alt="Logo 2" />
+                    <img className='w-14 h-auto' src="/logo2.png" alt="Logo 2" />
                     <img className='w-14 h-auto' src="/Logo3.png" alt="Logo 3" />
                     <img className='w-14 h-auto' src="/Logo4.png" alt="Logo 4" />
                     <img className='w-14 h-auto' src="/Logo5.png" alt="Logo 5" />
