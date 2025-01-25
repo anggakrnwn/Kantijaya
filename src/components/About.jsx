@@ -36,35 +36,35 @@ const About = () => {
           <div className="md:w-1/2 mx-auto flex sm:flex-row flex-col sm:items-center justify-around gap-30">
             <div className="space-y-8">
               <div className="flex items-center gap-4">
-                <img src="/icons/member.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/member.png" alt="" className="w-10 h-auto" />
                 <div>
                   <h4 className="text-2xl text-neutralGrey font-semibold">50++</h4>
-                  <p>Members</p>
+                  <p className="text-sm">Members</p>
                 </div>
               </div>
 
               <div className="flex items-center gap-4">
-                <img src="/icons/groups.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/groups.png" alt="" className="w-10 h-auto" />
                 <div>
-                  <h4 className="text-2xl text-neutralGrey font-semibold">20++</h4>
-                  <p>Groups</p>
+                  <h6 className="text-2xl text-neutralGrey font-semibold">20++</h6>
+                  <p className="text-sm">Groups</p>
                 </div>
               </div>
             </div>
             <div className="space-y-8">
               <div className="flex items-center gap-4">
-                <img src="/icons/eventbooking.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/eventbooking.png" alt="" className="w-10 h-auto" />
                 <div>
-                  <h4 className="text-2xl text-neutralGrey font-semibold">10++</h4>
-                  <p>Event Booking</p>
+                  <h6 className="text-2xl text-neutralGrey font-semibold">10++</h6>
+                  <p className="text-sm">Event Booking</p>
                 </div>
               </div>
 
               <div className="flex items-center gap-4">
-                <img src="/icons/payment.png" alt="" className="w-14 h-auto" />
+                <img src="/icons/payment.png" alt="" className="w-10 h-auto" />
                 <div>
-                  <h4 className="text-2xl text-neutralGrey font-semibold">40++</h4>
-                  <p>Payment</p>
+                  <h6 className="text-2xl text-neutralGrey font-semibold">40++</h6>
+                  <p className="text-sm">Payment</p>
                 </div>
               </div>
             </div>

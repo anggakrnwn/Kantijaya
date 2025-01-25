@@ -15,10 +15,6 @@ const Myfooter = () => {
               <img src="/kantijayalogo2.png" alt="logo" className="w-10 inline-block" />
               <span>Kantijaya</span>
             </a>
-            <div>
-              <p className="mb-1">Copyright © 2025 Kantijaya</p>
-              <p>All rights reserved</p>
-            </div>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:mt-4 sm:grid-cols-3 sm:gap-6">
             <div>
