@@ -1,17 +1,14 @@
 import React from "react";
-import blog1 from "../assets/blog1.jpg";
-import blog2 from "../assets/blog2.jpg";
-import blog3 from "../assets/blog3.jpg";
 
 const Blog = () => {
   const blogs = [
     {
       id: 1,
       title: "Fostering Growth Through Meaningful Discussions",
-      image: blog1,
+      image: "/assets/blog1.jpg", 
     },
-    { id: 2, title: "The Evolution of Modern Computers", image: blog2 },
-    { id: 3, title: "Emerging Trends in Technology Innovation", image: blog3 },
+    { id: 2, title: "The Evolution of Modern Computers", image: "/assets/blog2.jpg" },
+    { id: 3, title: "Emerging Trends in Technology Innovation", image: "/assets/blog3.jpg" },
   ];
 
   return (
@@ -49,7 +46,7 @@ const Blog = () => {
               </h3>
               <div className="flex items-center gap-8 flex-wrap mt-2">
                 <a
-                  href=""
+                  href="#"
                   className="font-bold text-brandPrimary hover:text-neutral-700"
                 >
                   Readmore
